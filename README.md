@@ -34,7 +34,7 @@ You can also run the script this way:
 
 # Use Short options
 ./convert_wallpapers.sh --d ~/path/to/wallpapers --t theme_name
-
+```
 
 
 
